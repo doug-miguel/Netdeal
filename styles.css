@@ -1,0 +1,18 @@
+.checkboxContainer {
+  background-color: rgb(188, 188, 188);
+  font: 1em Arial, sans-serif;
+  max-width: 600px;
+  gap: 15px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.checkboxContainer ul li {
+  list-style-type: none;
+}
+
+.checkboxContainer>ul {
+  padding: 0 0 0 10px;  
+  margin: 10px;
+}
